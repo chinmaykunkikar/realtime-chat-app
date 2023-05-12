@@ -4,6 +4,7 @@
   "description": "A real-time chat application using Node.js, Express.js, and Socket.IO.",
   "main": "server/app.js",
   "scripts": {
+    "start": "nodemon server/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
