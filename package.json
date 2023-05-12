@@ -26,6 +26,7 @@
   "homepage": "https://github.com/chinmaykunkikar/realtime-chat-app#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "moment": "^2.29.4",
     "socket.io": "^4.6.1"
   },
   "devDependencies": {
